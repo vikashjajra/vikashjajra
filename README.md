@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vikashjajra
-- 👀 I’m interested in Laravel, ReactJS and React Native
-- 🌱 I’m currently working as Shopify Theme Developer in a local firm.
-- 📫 How to reach me dm me at instagram @ivikashjajra
+# Hi, My name is Vikash Jajra
+### I've been writing code since last 2 years
+### Currently working as Shopify Theme Developer in a local firm
+#### I know Reactjs and Vuejs
 
 <!---
 vikashjajra/vikashjajra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
