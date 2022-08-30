@@ -1,5 +1,5 @@
 # Hi, My name is Vikash Jajra
-### I've been writing code since last 2 years
+### I've been actively writing code since last 2 years
 ### Currently working as Shopify Theme Developer in a local firm
 #### I know Reactjs and Vuejs
 
